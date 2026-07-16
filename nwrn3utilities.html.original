@@ -1,0 +1,498 @@
+<!-- RESTORED: nwrn3utilities.html
+     Original source: nwr2000.homestead.com
+     Wayback Machine injection removed. URLs restored to originals.
+     Note: This page originally used a Homestead frameset loader (~ns4.html).
+     The frameset has been removed; content is displayed directly.
+     Images/assets deferred - not yet downloaded. -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta content="N3 patches section" name="description"/>
+
+<title>NWR2000 N3 Patches</title>
+<script language="JavaScript">
+<!--
+var isTopFrame = true;
+ var location2 = document.location;
+
+function move(img_name,img_src){
+document[img_name].src=img_src;}
+
+//-->
+</script>
+<!-- [Homestead frameset loader JS removed — not needed for local browsing] -->
+
+</head>
+<body link="#3333cc" vlink="#006633" background="files/nwrback.gif" onload="document.bgcolor='ffffff';">
+<table border="0" cellspacing="0" cellpadding="0" width="907"><tr><td>
+<div style="margin-top: 1px; margin-left: 1px">
+<!-- [Homestead tracker pixel removed] --></div>
+<div style="margin-top: 1320px; margin-left: 580px">
+<a href="files/N3AIMich.zip"><img src="tp.gif" width="60" height="26" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 490px">
+<a href="files/N3AIRock.zip"><img src="tp.gif" width="70" height="26" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 390px">
+<a href="files/N3AInbristol.zip"><img src="tp.gif" width="80" height="26" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1397px; margin-left: 353px">
+<table border="0" cellspacing="0" cellpadding="0" width="224"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="27"><div align="center"><font face="Courier New, adobe-courier, Courier" size="1"><font color="#339966"><b>More stuff by [daffy] </font></b><font color="#339966"><b><a href="https://members.xoom.com/DnaProRacing/main.htm">DNA Pro Racing</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1561px; margin-left: 360px">
+<a href="files/howto.zip"><img src="tp.gif" width="200" height="18" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1501px; margin-left: 320px">
+<a href="files/howto.zip"><img src="tp.gif" width="60" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 540px">
+<a href="files/nwrn3patches/pitsatlanta.zip"><img src="tp.gif" width="40" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 460px">
+<a href="files/nwrn3patches/pitshomestead.zip"><img src="tp.gif" width="70" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 390px">
+<a href="files/nwrn3patches/pitstalladega.zip"><img src="tp.gif" width="60" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 320px">
+<a href="files/nwrn3patches/pitsmichigan.zip"><img src="tp.gif" width="60" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 300px">
+<a href="files/N3AILowes.zip"><img src="tp.gif" width="80" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 540px">
+<a href="files/N3AILV.zip"><img src="tp.gif" width="80" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 480px">
+<a href="files/N3AIIndy.zip"><img src="tp.gif" width="50" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 310px">
+<a href="files/N3AIhomestd.zip"><img src="tp.gif" width="90" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 410px">
+<a href="files/N3AIDover.zip"><img src="tp.gif" width="60" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 540px">
+<a href="files/N3AIDar.zip"><img src="tp.gif" width="80" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 380px">
+<a href="files/N3AICali.zip"><img src="tp.gif" width="80" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1177px; margin-left: 303px">
+<table border="0" cellspacing="0" cellpadding="0" width="334"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="40"><div align="center"><font face="Courier New, adobe-courier, Courier" size="1"><font color="#339966"><b>AI Patches were made by [daffy] Please visit his site, he has lots of awsome stuff for N3!!! </font></b><font color="#339966"><b><a href="https://members.xoom.com/DnaProRacing/main.htm">DNA Pro Racing</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 470px">
+<a href="files/N3AIBristol.zip"><img src="tp.gif" width="60" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 300px">
+<a href="files/N3AIAtlanta.zip"><img src="tp.gif" width="70" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 897px; margin-left: 143px">
+<table border="0" cellspacing="0" cellpadding="0" width="664"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="258"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwatlnta.zip">Atlanta Pit Wall Remover</font></a><font color="#3333cc"><u> 207k </font></u><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Removes the pitwall at Atlanta &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b> </font></b></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><br></font></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><br></font></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwtally.zip">Talladega Pit Wall Remover 358k</font></a><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Removes the pitwall at Tally &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><a href="https://nwrn3cars.homestead.com/files/pwnchrlt.zip"><br></font></b></a></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwnchrlt.zip">Night Charlotte Pit Wall Remover </font></a><font color="#3333cc"><u>227k</font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font></font><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966">Removes the pitwall at Night Charlotte</font><font color="#3333cc"> </font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b> Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#999999"><a href="https://nwrn3cars.homestead.com/files/pwchrlte.zip"><br></font></a></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#999999"><a href="https://nwrn3cars.homestead.com/files/pwchrlte.zip">Charlotte Pit Wall Remover</font></a><font color="#3333cc"><u> 224k</font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></font><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#3333cc"> </font><font color="#339966">Removes the pitwall at Charlotte</font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwlvegas.zip">Las Vegas Pit Wall Remover 205k</font></a><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Removes the pit wall at Las Vegas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwtexas.zip">Texas Pit Wall Remover 2</font></a><font color="#3333cc"><u>19k </font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font><font color="#339966">Removes the pit wall at Texas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 741px; margin-left: 140px">
+<a href="files/nwrn3patches/martgrnd.zip"><img src="tp.gif" width="160" height="43" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 681px; margin-left: 170px">
+<a href="files/nwrn3patches/n3mirror1noblind.zip"><img src="tp.gif" width="90" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1627px; margin-left: 433px">
+<table border="0" cellspacing="0" cellpadding="0" width="54"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="35"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="4"><font color="#339966"><b><a href="nwr.html">Home</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 577px; margin-left: 353px">
+<table border="0" cellspacing="0" cellpadding="0" width="284"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="59"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">No hands version of XLjunkies cockpit. It's awsome, I'm using it in my game now! Check out his page, he many other cockpits there: </font><font color="#339966"><a href="https://utility-pit.homepage.com/">The Utilitiy Pit</font></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 571px; margin-left: 160px">
+<a href="files/nwrn3patches/ford800nh.zip"><img src="tp.gif" width="120" height="43" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 511px; margin-left: 160px">
+<a href="files/nwrn3patches/decal.zip"><img src="tp.gif" width="120" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 445px; margin-left: 150px">
+<a href="files/nwrn3patches/decalbonanza.zip"><img src="tp.gif" width="140" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 365px; margin-left: 130px">
+<a href="files/nwrn3patches/flaglite.zip"><img src="tp.gif" width="170" height="43" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 305px; margin-left: 150px">
+<a href="files/nwrn3patches/damagev1.1.zip"><img src="tp.gif" width="130" height="23" border="0"></a>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 121px; margin-left: 420px">
+<!-- Begin HTML51--><img src="files/nwrutils.gif" width="160" height="70" border="0"><!-- End HTML51-->
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 11px; margin-left: 370px">
+<!-- Begin HTML51--><img src="files/n3big.gif" width="270" height="90" border="0"><!-- End HTML51-->
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 247px; margin-left: 132px">
+<table border="0" cellspacing="0" cellpadding="0" width="744"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">All patches were posted with permission from their authors. You may not post these utilities without direct permission with there authors.</font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 305px; margin-left: 150px">
+<p align="CENTER"><a href="files/nwrn3patches/damagev1.1.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> New&nbsp;Damage&nbsp;104KB<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 264px; margin-left: 149px">
+
+<table border="0" cellspacing="0" cellpadding="0" width="710">
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+</table>
+
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 268px; margin-left: 163px">
+<table border="0" cellspacing="0" cellpadding="0" width="744"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="33"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2">Download: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Author: </font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 308px; margin-left: 389px">
+<table border="0" cellspacing="0" cellpadding="0" width="214"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="44"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">This will make the damage in your N3 game much more realistic.</font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 308px; margin-left: 683px">
+<table border="0" cellspacing="0" cellpadding="0" width="104"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Keith Welch</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 365px; margin-left: 130px">
+<p align="CENTER"><a href="files/nwrn3patches/flaglite.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Cockpit&nbsp;Track&nbsp;Condition<br>Lights&nbsp;Utility&nbsp;37KB<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 367px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="234"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="74"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">This patch will install a copy of the animated track condition</font></font></div><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">lights into the cockpit of your stock car. </font></font></div><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><br></font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 387px; margin-left: 683px">
+<table border="0" cellspacing="0" cellpadding="0" width="104"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 445px; margin-left: 150px">
+<p align="CENTER"><a href="files/nwrn3patches/decalbonanza.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Decal&nbsp;Bonanza&nbsp;355KB<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 447px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="234"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="59"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">Multi decal sheet.&nbsp; 4 different decal sheets,&nbsp; with numbers, logos, parts, and bodys.</font></font></div><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><br></font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 458px; margin-left: 693px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Mark Turner</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 511px; margin-left: 160px">
+<p align="CENTER"><a href="files/nwrn3patches/decal.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> New&nbsp;Decals&nbsp;132KB<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 517px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="214"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">A very nice decal sheet. </font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 517px; margin-left: 693px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Burton99</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 571px; margin-left: 160px">
+<p align="CENTER"><a href="files/nwrn3patches/ford800nh.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Ford&nbsp;Cockpit<br>800x600&nbsp;236KB<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 577px; margin-left: 353px">
+<table border="0" cellspacing="0" cellpadding="0" width="284"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="59"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">No hands version of XLjunkies cockpit. It's awsome, I'm using it in my game now! Check out his page, he many other cockpits there: </font><font color="#339966"><a href="https://utility-pit.homepage.com/">The Utilitiy Pit</font></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 597px; margin-left: 703px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>XLjunkie</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1627px; margin-left: 433px">
+<table border="0" cellspacing="0" cellpadding="0" width="54"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="35"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="4"><font color="#339966"><b><a href="nwr.html">Home</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 681px; margin-left: 170px">
+<p align="CENTER"><a href="files/nwrn3patches/n3mirror1noblind.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> N3&nbsp;Mirror&nbsp;Fix<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 687px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="214"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">This will fix the mirror in&nbsp; NASCAR 3</font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 687px; margin-left: 703px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>??Unknown??</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 741px; margin-left: 140px">
+<p align="CENTER"><a href="files/nwrn3patches/martgrnd.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Martinsville&nbsp;Speedway<br>Grandstands&nbsp;Update<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 767px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="214"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966">Just what it says!</font></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 777px; margin-left: 703px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="center"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 897px; margin-left: 143px">
+<table border="0" cellspacing="0" cellpadding="0" width="664"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="258"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwatlnta.zip">Atlanta Pit Wall Remover</font></a><font color="#3333cc"><u> 207k </font></u><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Removes the pitwall at Atlanta &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b> </font></b></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><br></font></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><br></font></font></div><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwtally.zip">Talladega Pit Wall Remover 358k</font></a><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Removes the pitwall at Tally &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><a href="https://nwrn3cars.homestead.com/files/pwnchrlt.zip"><br></font></b></a></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwnchrlt.zip">Night Charlotte Pit Wall Remover </font></a><font color="#3333cc"><u>227k</font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font></font><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#339966">Removes the pitwall at Night Charlotte</font><font color="#3333cc"> </font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b> Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#999999"><a href="https://nwrn3cars.homestead.com/files/pwchrlte.zip"><br></font></a></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#999999"><a href="https://nwrn3cars.homestead.com/files/pwchrlte.zip">Charlotte Pit Wall Remover</font></a><font color="#3333cc"><u> 224k</font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></font><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><font color="#3333cc"> </font><font color="#339966">Removes the pitwall at Charlotte</font></font><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwlvegas.zip">Las Vegas Pit Wall Remover 205k</font></a><font color="#339966"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Removes the pit wall at Las Vegas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><b><br></font></b></font></div><div align="left"><font face="Times New Roman, adobe-times, Times" size="2"><font color="#339966"><a href="https://nwrn3cars.homestead.com/files/pwtexas.zip">Texas Pit Wall Remover 2</font></a><font color="#3333cc"><u>19k </font></u><font color="#3333cc"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font><font color="#339966">Removes the pit wall at Texas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </font><font color="#339966"><b>Josh Hagopian</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 843px; margin-left: 139px">
+
+<table border="0" cellspacing="0" cellpadding="0" width="710">
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="22" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="702" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+</table>
+
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 817px; margin-left: 383px">
+<table border="0" cellspacing="0" cellpadding="0" width="224"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="35"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="4"><font color="#339966"><b>Pitwall Romoval Patches</font></b></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 847px; margin-left: 153px">
+<table border="0" cellspacing="0" cellpadding="0" width="694"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="29"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="2"><b>Download</b>: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Description</b>: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <b>Author</b>: </font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 300px">
+<p align="CENTER"><a href="files/N3AIAtlanta.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Atlanta&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1211px; margin-left: 300px">
+
+<table border="0" cellspacing="0" cellpadding="0" width="330">
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+</table>
+
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1223px; margin-left: 423px">
+<table border="0" cellspacing="0" cellpadding="0" width="84"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="32"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="3"><b><i>AI Updates</b></i></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 470px">
+<p align="CENTER"><a href="files/N3AIBristol.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Bristol&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1177px; margin-left: 303px">
+<table border="0" cellspacing="0" cellpadding="0" width="334"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="40"><div align="center"><font face="Courier New, adobe-courier, Courier" size="1"><font color="#339966"><b>AI Patches were made by [daffy] Please visit his site, he has lots of awsome stuff for N3!!! </font></b><font color="#339966"><b><a href="https://members.xoom.com/DnaProRacing/main.htm">DNA Pro Racing</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 380px">
+<p align="CENTER"><a href="files/N3AICali.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> California&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1261px; margin-left: 540px">
+<p align="CENTER"><a href="files/N3AIDar.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Darlington&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 410px">
+<p align="CENTER"><a href="files/N3AIDover.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Dover&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 310px">
+<p align="CENTER"><a href="files/N3AIhomestd.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Homestead&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 480px">
+<p align="CENTER"><a href="files/N3AIIndy.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Indy&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1291px; margin-left: 540px">
+<p align="CENTER"><a href="files/N3AILV.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Las&nbsp;Vegas&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 300px">
+<p align="CENTER"><a href="files/N3AILowes.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Charlotte&nbsp;AI<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 320px">
+<p align="CENTER"><a href="files/nwrn3patches/pitsmichigan.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Michigan<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 390px">
+<p align="CENTER"><a href="files/nwrn3patches/pitstalladega.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Talladega<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 460px">
+<p align="CENTER"><a href="files/nwrn3patches/pitshomestead.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Homestead<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1471px; margin-left: 540px">
+<p align="CENTER"><a href="files/nwrn3patches/pitsatlanta.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Atlanta<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1501px; margin-left: 320px">
+<p align="CENTER"><a href="files/howto.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Daytona<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1561px; margin-left: 360px">
+<p align="CENTER"><a href="files/howto.zip"> <font face="Arial, Helvetica, adobe-helvetica" size="2"><b> How&nbsp;do&nbsp;I&nbsp;use&nbsp;these?&nbsp;Click&nbsp;here!<br></b>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1421px; margin-left: 300px">
+
+<table border="0" cellspacing="0" cellpadding="0" width="330">
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="32" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+<div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="322" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"><img src="<!-- homestead-script-removed -->"" width="2" height="2" border="0"></td></tr></div>
+</table>
+
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1434px; margin-left: 424px">
+<table border="0" cellspacing="0" cellpadding="0" width="74"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="32"><div align="left"><font face="Arial, Helvetica, adobe-helvetica, Arial Narrow" size="3"><b><i>Pit Stalls</b></i></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1397px; margin-left: 353px">
+<table border="0" cellspacing="0" cellpadding="0" width="224"><div style="margin-top: 0px; margin-left: 0"><tr valign="top"><td height="27"><div align="center"><font face="Courier New, adobe-courier, Courier" size="1"><font color="#339966"><b>More stuff by [daffy] </font></b><font color="#339966"><b><a href="https://members.xoom.com/DnaProRacing/main.htm">DNA Pro Racing</font></b></a></font></div></td></tr></div></table>
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 390px">
+<p align="CENTER"><a href="files/N3AInbristol.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Night&nbsp;Bristol<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 490px">
+<p align="CENTER"><a href="files/N3AIRock.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Rockingham<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+<div style="margin-top: 1321px; margin-left: 580px">
+<p align="CENTER"><a href="files/N3AIMich.zip"> <font face="Times New Roman, adobe-times, Times" size="3"> Michagian<br>  </a>  </font> </p> 
+</div>
+<div style="margin-top: -2661px; margin-left: 0px"><img src="tp.gif" width="0" height="0" border="0"></div>
+
+</td></tr></table>
+<br><br><hr><img src="defaultUser/images/footer.gif" usemap="#HomesteadLogo" alt="Create your own website at www.homestead.com!" border="0"><map name="HomesteadLogo"><area coords="182,6,287,17" href="https://www.homestead.com/splash.html?a1"></map><div style="position: absolute; top:1px; left: 1px; width:1px; height:1px">
+<img name="statsImage" src="tp.gif"><script language="JavaScript">
+var code = " ";
+var username = "hsd_4723280"
+</script>
+<script src="<!-- homestead-script-removed -->"">
+</script><noscript><img src="<!-- homestead-script-removed -->"" border="0"></noscript>
+<!-- end tracking code. -->
+</div>
+</body>
+</html>
